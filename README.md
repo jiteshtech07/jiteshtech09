@@ -1,3 +1,4 @@
+|[logo](https://github.com/jiteshtech07/jiteshtech09/commit/e3fdb62d38f6a3c41b3f00eeea8c6bce91dcc010)
 <h1 align="center">Hi 👋, I'm Jitesh Merchant</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"  align="right" alt="coding" width="400">
